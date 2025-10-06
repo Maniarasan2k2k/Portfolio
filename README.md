@@ -3,7 +3,7 @@ Code. Create. Inspire ❤️ that’s how I build and teach
 
 
 
-# Maniarasan K - Frontend Developer
+# Maniarasan K - Front-end Developer
 
 Hi! I’m Maniarasan 👋  
 A passionate **Frontend Developer**, building interactive and responsive websites using **HTML, CSS, and JavaScript**.  
